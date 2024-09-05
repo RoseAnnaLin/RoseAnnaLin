@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @RoseAnnaLin
-- 👀 I’m interested in ...programming
+- 👋 Hi, I’m @CindyMyat
 - 🌱 I’m currently learning ...DataScience
 - 💞️ I’m looking to collaborate on ...Online
 - 📫 How to reach me ..Top

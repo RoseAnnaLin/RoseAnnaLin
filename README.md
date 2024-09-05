@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoseAnnaLin
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...PHP,Javascript,MySql
+- 🌱 I’m currently learning ...DataScience
 - 💞️ I’m looking to collaborate on ...Online
 - 📫 How to reach me ..Top
 
